@@ -6,7 +6,7 @@
 	> JAX-RS 2.0 API
 
  IDE Utilizado
-	> NEON
+	> Eclipse NEON
 
 Java Version
 	> 1.80_131
