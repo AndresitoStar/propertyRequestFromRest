@@ -2,11 +2,11 @@
 
 --------------------------------
 
-> ###Libreria utilizada
-	JAX-RS 2.0 API
+ Libreria utilizada
+	> JAX-RS 2.0 API
 
-> ###IDE Utilizado
-	Eclipse NEON
+ IDE Utilizado
+	> NEON
 
->###Java Version
-	1.80_131
+Java Version
+	> 1.80_131
